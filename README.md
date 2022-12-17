@@ -3,12 +3,19 @@
 Setup
 
 Jenkins setup
+
 Nexus setup
+
 Snarqube setup
+
 Security Group
+
 Plugins
+
 Intergrate Nexus and Sonarqube 
+
 Write Pilpeline Scropt
+
 Set netification
 
 ##Cantinuous integration  Pipelin.Jenkins, Nexus &amp; Sonarqube Setup
