@@ -1,9 +1,8 @@
-# Continuous-Integration-jenkins
+### Continuous-Integration-jenkins
 
-Cantinuous integration  Pipelin.Jenkins, Nexus &amp; Sonarqube Setup
+##Cantinuous integration  Pipelin.Jenkins, Nexus &amp; Sonarqube Setup
 
-Launch a Instance in Aws for Jenkins (Jenkinsserver)
-
+#Launch a Instance in Aws for Jenkins (Jenkinsserver)
 
 1.Fist want to lAuch a instnce in Aws :-ubuntu 20  & ,Instance t2 small
 
@@ -15,8 +14,7 @@ Launch a Instance in Aws for Jenkins (Jenkinsserver)
 
 5.Launch instance 
 
-Launch A instance for Nexus Server (Nexusserver)
-
+#Launch A instance for Nexus Server (Nexusserver)
 
 1.Fist want to lAuch a instnce in Aws :-Centos7 & ,Instance t2 Medium 
 
@@ -28,8 +26,7 @@ Launch A instance for Nexus Server (Nexusserver)
 
 5.Launch instance 
 
-Launch A instance for sonarqube(Sonarserver)
-
+#Launch A instance for sonarqube(Sonarserver)
 
 1.Fist want to lAuch a instnce in Aws :-Ubuntu 18 & ,Instance t2 Medium 
 
